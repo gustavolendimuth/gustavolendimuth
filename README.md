@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm [Gustavo Lendimuth]! 👋
 
 ## Full-Stack Developer | Ex Graphic Designer
