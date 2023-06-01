@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Gustavo Lendimuth! 👋
 
 <div align="center">
   <img src="https://i.imgur.com/dtsbIgQ.png" alt="banner" width="100%">
@@ -24,8 +24,6 @@ I'm a **Full-Stack Developer** with a background in **Graphic Design**, currentl
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Agile-008080?style=for-the-badge)
-![](https://img.shields.io/badge/Scrum-008080?style=for-the-badge)
 
 ---
 
@@ -65,10 +63,10 @@ Brief description of the project, including technologies used and the problem it
 
 ## 📫 Get in Touch
 
-<a href="mailto:your.email@gmail.com"><img src="httpsquote("Hello, I'm [Your Name]! 👋\n\n<div align=\"center\">\n", "customers around the world.")
-quote("## 🛠️ Technical Skills\n\n![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n", "badge/Scrum-008080?style=for-the-badge)")
-quote("## 🎓 Education\n\n**Trybe** _(2022 - present)_", "real-world scenarios.")
-quote("## 🏆 Achievements\n\n- Contributed to", "\"Women's Campaign of the Year\" multiple times.")
-quote("## 📚 Projects \n\n### Project Name", "[Live Demo](Live Demo URL)")
-quote("## 📈 GitHub Stats\n\n![Your Name's GitHub", "&theme=tokyonight)")
-quote("## 📫 Get in Touch\n\n<a href=\"mailto:your.email@gmail.com\"><img src=\"https", "me for any interesting discussions!")
+- [LinkedIn](https://www.linkedin.com/in/gustavolendimuth/?locale=en_US)
+- [Email](gustavolendimuth@gmail.com)
+
+---
+
+Feel free to explore my repositories and don't hesitate to connect with me for collaboration or any interesting discussions!
+
