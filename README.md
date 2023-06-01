@@ -1,7 +1,7 @@
 # Hello, I'm Gustavo Lendimuth! 👋
 
 <div align="center">
-  <img src="https://i.imgur.com/dtsbIgQ.png" alt="banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/D4D16AQFczRwGpIKTuA/profile-displaybackgroundimage-shrink_350_1400/0/1675886937689?e=1691020800&v=beta&t=nnM6SlpfsP9cftsMfoO_SRKFtZqnMzhi0DZHL5xL-bE" alt="banner" width="100%">
 </div>
 
 ## Full-Stack Developer | Ex Graphic Designer
