@@ -8,8 +8,6 @@
 
 I'm a **Full-Stack Developer** with a background in **Graphic Design**, currently advancing my skills at [Trybe](https://www.betrybe.com/). I'm passionate about technology and I'm excited to bring my design expertise into the world of programming. 
 
-💼 In my past life, I was a graphic designer at Rip Curl, where I helped to create designs that engaged and inspired customers around the world.
-
 ---
 
 ## 🛠️ Technical Skills
@@ -32,26 +30,6 @@ I'm a **Full-Stack Developer** with a background in **Graphic Design**, currentl
 **Trybe** _(2022 - present)_
 - Currently enrolled in a full-stack development program, focusing on comprehensive web development skills. I'm committed to a 1500-hour curriculum over 12 months.
 - Completed numerous practical projects that simulate real-world scenarios.
-
----
-
-## 🏆 Achievements
-
-- Contributed to Rip Curl's successful "My Bikini" marketing campaign, which won the SIMA Award for "Women's Campaign of the Year" multiple times.
-
----
-
-## 📚 Projects 
-
-### Project Name 
-
-![Project Image](Image URL)
-
-Brief description of the project, including technologies used and the problem it solves. 
-
-[GitHub Repo](GitHub Repo URL) | [Live Demo](Live Demo URL)
-
-(Repeat the above section for each project you want to showcase)
 
 ---
 
