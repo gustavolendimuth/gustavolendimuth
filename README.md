@@ -57,7 +57,7 @@ Brief description of the project, including technologies used and the problem it
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolendimuth&show_icons=true&theme=tokyonight)
 
 ---
 
