@@ -6,7 +6,9 @@
 
 ## Full-Stack Developer | Ex Graphic Designer
 
-I'm a **Full-Stack Developer** with a background in **Graphic Design**, currently advancing my skills at [Trybe](https://www.betrybe.com/). I'm passionate about technology and I'm excited to bring my design expertise into the world of programming. 
+Former Graphic Designer with experience in executing large-scale visual communication projects, now a Full Stack Developer trained by Trybe (trybe.com.br). Committed
+to developing creative solutions for the web using JavaScript, Typescript, Node.js, React.js, MySQL, and MongoDB. Passionate about clean, concise, and self-explanatory
+code. Seeking an opportunity to bring my skills to an organization that values social responsibility and continuous growth.
 
 ---
 
