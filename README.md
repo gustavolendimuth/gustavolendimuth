@@ -1,7 +1,7 @@
 
 # Hello, I'm Gustavo Lendimuth! 👋
 
-## Full-Stack Developer | Ex Graphic Designer
+## Full Stack Developer | Front-end Developer | Graphic Designer
 
 Former Graphic Designer with experience in executing large-scale visual communication projects, now a Full Stack Developer trained by Trybe (trybe.com.br). Committed
 to developing creative solutions for the web using JavaScript, Typescript, Node.js, React.js, MySQL, and MongoDB. Passionate about clean, concise, and self-explanatory
