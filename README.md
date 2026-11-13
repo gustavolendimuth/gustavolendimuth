@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/gustavolendimuth/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="card-dark.svg">
-    <img width="100%" alt="Gustavo Lendimuth. Full stack developer, ex art director. Ten years designing what people see, now I build what holds it up." src="card-light.svg">
+    <img width="100%" alt="Gustavo Lendimuth. Full stack developer building APIs, integrations and cloud services at APOIA.se." src="card-light.svg">
   </picture>
 </a>
 
@@ -33,12 +33,7 @@
 - Spec before code. I write the spec and the repo context; coding agents build on it; an independent check runs before the PR.
 - Types from the database to the screen, tests that fail for a reason, and Docker that comes up on the first try.
 - READMEs a stranger can follow.
-
-## Before software
-
-- 10 years as an art director: Rip Curl Brasil, Iron Studios, motion design for DVD menus back when that was a job.
-- Photographed and retouched Iron Man and Hulk collectible statues, one detail at a time.
-- Lived four years in London. I work in English every day.
+- Remote-first and fluent in English, after four years living in London.
 
 <br>
 
@@ -47,7 +42,7 @@
 
 <br>
 
-Desenvolvedor full stack e ex-diretor de arte. Passei dez anos desenhando o que as pessoas veem; hoje construo o que sustenta isso.
+Desenvolvedor full stack. Construo APIs, integrações e serviços em nuvem para uma plataforma que as pessoas pagam todo mês.
 
 **Agora**
 
@@ -69,11 +64,6 @@ Desenvolvedor full stack e ex-diretor de arte. Passei dez anos desenhando o que 
 - Spec antes do código. Escrevo a spec e o contexto do repositório, os agentes de código trabalham em cima disso, e uma verificação independente roda antes do PR.
 - Tipagem do banco até a tela, testes que falham por um motivo e Docker que sobe na primeira tentativa.
 - README que alguém de fora consegue seguir.
-
-**Antes do software**
-
-- Dez anos como diretor de arte: Rip Curl Brasil, Iron Studios e motion design de menu de DVD, quando isso ainda era profissão.
-- Fotografei e tratei estátuas colecionáveis do Homem de Ferro e do Hulk, detalhe por detalhe.
-- Morei quatro anos em Londres e trabalho em inglês todo dia.
+- Trabalho remoto e em inglês sem dificuldade, depois de quatro anos morando em Londres.
 
 </details>
