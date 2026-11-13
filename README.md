@@ -1,52 +1,79 @@
-### Hi, I'm Gustavo 👋
+<a href="https://www.linkedin.com/in/gustavolendimuth/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="card-dark.svg">
+    <img width="100%" alt="Gustavo Lendimuth. Full stack developer, ex art director. Ten years designing what people see, now I build what holds it up." src="card-light.svg">
+  </picture>
+</a>
 
-Full stack developer at [APOIA.se](https://apoia.se), a recurring crowdfunding platform where supporters back creators every month. I spent ten years as an art director before moving to software, so I pay attention to both ends: the screen people use and the system that has to hold up under it.
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/gustavolendimuth/">linkedin</a> ·
+    <a href="mailto:gustavolendimuth@gmail.com">email</a> ·
+    <a href="https://apoia.se">apoia.se</a>
+  </samp>
+</p>
 
-**Now**
+## Now
 
-- Building third-party integrations at APOIA.se: a connector contract that plugs Spotify, Telegram and Discord into the monolith (Node.js, Express, MongoDB) and its AWS Lambda services (Serverless, SQS).
-- Gating exclusive Telegram groups for paying supporters. EventBridge, SQS and Lambda check who's up to date, and supporters sign in with Telegram via OIDC/PKCE.
-- Freelancing for clients in Brazil, and volunteering at Mútua, a platform for cooperative farmers' markets.
+- **[APOIA.se](https://apoia.se)** — Recurring crowdfunding, where supporters back creators every month. I work on the Node.js/MongoDB monolith and the AWS Lambda services around it.
+  - Rebuilt the integrations layer as one connector per app. Spotify moved first; Telegram and Discord plug in without touching the controller.
+  - Exclusive Telegram groups for paying supporters: Bot API, fail-closed webhooks, SQS with a DLQ alarm, and sign-in with Telegram over OIDC/PKCE.
+  - Docker Compose setups for the monolith and the services monorepo, so a change gets checked locally before it reaches staging.
+- **Mútua** — Volunteering for a cooperative farmers' market. Built the assistant that turns WhatsApp messages into orders (Pydantic AI, Meta Cloud API, Celery).
 
-**Selected work**
+## Side projects
 
-- [compra-coletiva](https://github.com/gustavolendimuth/compra-coletiva): group buying with weight-based shipping, Socket.IO chat, a BullMQ email queue and LGPD compliance tests in CI.
-- [its-done](https://github.com/gustavolendimuth/its-done): time tracking and invoicing in a Turborepo monorepo (NestJS, Next.js, Prisma, S3, Sentry).
-- [transcritor](https://github.com/gustavolendimuth/transcritor): audio and video transcription with OpenAI. Uploads are deleted as soon as the job ends.
-- [guia-claude-code-otimizacao](https://github.com/gustavolendimuth/guia-claude-code-otimizacao): a step-by-step guide (PT-BR) to installing Claude Code and tuning a Windows machine for it.
+- **[compra-coletiva](https://github.com/gustavolendimuth/compra-coletiva)** — Group buying, end to end. Weight-based shipping, Socket.IO chat, BullMQ emails, LGPD compliance tests in CI.
+- **[its-done](https://github.com/gustavolendimuth/its-done)** — Time tracking and invoicing. Turborepo, NestJS, Next.js, Prisma, and a public portal where clients see their own invoices.
+- **[transcritor](https://github.com/gustavolendimuth/transcritor)** — Audio and video to text with Whisper. Uploads are deleted the moment the job ends.
+- **[guia-claude-code-otimizacao](https://github.com/gustavolendimuth/guia-claude-code-otimizacao)** — A PT-BR guide to installing Claude Code and tuning Windows for it.
 
-**How I work**
+## Things I care about
 
-Spec first. I write the spec and the repo context, coding agents build on top of it, and an independent check runs before the PR. I like types from the database to the UI, tests that run in CI, Docker setups that come up on the first try, and READMEs a stranger can follow.
+- Spec before code. I write the spec and the repo context; coding agents build on it; an independent check runs before the PR.
+- Types from the database to the screen, tests that fail for a reason, and Docker that comes up on the first try.
+- READMEs a stranger can follow.
 
-**Stack:** TypeScript · Node.js · NestJS · Express · React · Next.js · MongoDB · PostgreSQL · Prisma · Redis · AWS · Docker
+## Before software
 
-Juiz de Fora, Brazil · Lived in London for four years, work in English every day · [LinkedIn](https://www.linkedin.com/in/gustavolendimuth/) · [Email](mailto:gustavolendimuth@gmail.com)
-
-<details>
-<summary>🇧🇷 Versão em português</summary>
+- 10 years as an art director: Rip Curl Brasil, Iron Studios, motion design for DVD menus back when that was a job.
+- Photographed and retouched Iron Man and Hulk collectible statues, one detail at a time.
+- Lived four years in London. I work in English every day.
 
 <br>
 
-Sou desenvolvedor full stack na [APOIA.se](https://apoia.se), uma plataforma de financiamento coletivo recorrente em que apoiadores mantêm apoios mensais a criadores. Passei dez anos como diretor de arte antes de ir para o software, por isso presto atenção nas duas pontas: a tela que a pessoa usa e o sistema que precisa aguentar esse uso.
+<details>
+<summary><b>🇧🇷 Em português</b></summary>
+
+<br>
+
+Desenvolvedor full stack e ex-diretor de arte. Passei dez anos desenhando o que as pessoas veem; hoje construo o que sustenta isso.
 
 **Agora**
 
-- Construo integrações com plataformas de terceiros na APOIA.se: um contrato de connector que liga Spotify, Telegram e Discord ao monolito (Node.js, Express, MongoDB) e aos serviços em AWS Lambda (Serverless, SQS).
-- Libero grupos exclusivos do Telegram para apoiadores pagantes. EventBridge, SQS e Lambda conferem quem está em dia, e o apoiador entra com a conta do Telegram via OIDC/PKCE.
-- Faço projetos como freelancer para clientes no Brasil e sou voluntário na Mútua, uma plataforma de feiras de produtores organizados em cooperativas.
+- **[APOIA.se](https://apoia.se)**: financiamento coletivo recorrente, em que apoiadores mantêm apoios mensais a criadores. Trabalho no monolito em Node.js/MongoDB e nos serviços em AWS Lambda ao redor dele.
+  - Refiz a camada de integrações com um connector por app. O Spotify migrou primeiro; Telegram e Discord entram sem mexer no controller.
+  - Grupos exclusivos do Telegram para apoiadores pagantes: Bot API, webhook fail-closed, SQS com alarme na DLQ e login com o Telegram via OIDC/PKCE.
+  - Ambiente Docker Compose para o monolito e para o monorepo de serviços, para validar a mudança localmente antes de chegar em staging.
+- **Mútua**: voluntário numa plataforma de feiras de produtores em cooperativas. Fiz o assistente que transforma mensagens de WhatsApp em pedidos (Pydantic AI, Meta Cloud API, Celery).
 
-**Projetos**
+**Projetos pessoais**
 
-- [compra-coletiva](https://github.com/gustavolendimuth/compra-coletiva): compra coletiva com frete calculado pelo peso, chat em Socket.IO, fila de e-mails no BullMQ e testes de conformidade com a LGPD no CI.
-- [its-done](https://github.com/gustavolendimuth/its-done): controle de horas e faturamento num monorepo Turborepo (NestJS, Next.js, Prisma, S3, Sentry).
-- [transcritor](https://github.com/gustavolendimuth/transcritor): transcrição de áudio e vídeo com a OpenAI. O arquivo enviado é apagado assim que a transcrição termina.
-- [guia-claude-code-otimizacao](https://github.com/gustavolendimuth/guia-claude-code-otimizacao): guia passo a passo para instalar o Claude Code e preparar o Windows para ele.
+- **[compra-coletiva](https://github.com/gustavolendimuth/compra-coletiva)**: compra coletiva de ponta a ponta. Frete pelo peso, chat em Socket.IO, e-mails no BullMQ, testes de LGPD no CI.
+- **[its-done](https://github.com/gustavolendimuth/its-done)**: controle de horas e faturamento. Turborepo, NestJS, Next.js, Prisma e um portal onde o cliente vê as próprias faturas.
+- **[transcritor](https://github.com/gustavolendimuth/transcritor)**: áudio e vídeo para texto com Whisper. O arquivo é apagado assim que a transcrição termina.
+- **[guia-claude-code-otimizacao](https://github.com/gustavolendimuth/guia-claude-code-otimizacao)**: guia para instalar o Claude Code e preparar o Windows para ele.
 
-**Como trabalho**
+**O que importa pra mim**
 
-Spec primeiro. Escrevo a spec e o contexto do repositório, os agentes de código trabalham em cima disso, e uma verificação independente roda antes do PR. Gosto de tipagem do banco até a tela, de testes que rodam no CI, de ambiente Docker que sobe na primeira tentativa e de README que alguém de fora consegue seguir.
+- Spec antes do código. Escrevo a spec e o contexto do repositório, os agentes de código trabalham em cima disso, e uma verificação independente roda antes do PR.
+- Tipagem do banco até a tela, testes que falham por um motivo e Docker que sobe na primeira tentativa.
+- README que alguém de fora consegue seguir.
 
-Juiz de Fora, MG · Morei quatro anos em Londres e trabalho em inglês todo dia
+**Antes do software**
+
+- Dez anos como diretor de arte: Rip Curl Brasil, Iron Studios e motion design de menu de DVD, quando isso ainda era profissão.
+- Fotografei e tratei estátuas colecionáveis do Homem de Ferro e do Hulk, detalhe por detalhe.
+- Morei quatro anos em Londres e trabalho em inglês todo dia.
 
 </details>
