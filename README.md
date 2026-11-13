@@ -1,49 +1,52 @@
+### Hi, I'm Gustavo 👋
 
-# Hello, I'm Gustavo Lendimuth! 👋
+Full stack developer at [APOIA.se](https://apoia.se), a recurring crowdfunding platform where supporters back creators every month. I spent ten years as an art director before moving to software, so I pay attention to both ends: the screen people use and the system that has to hold up under it.
 
-## Full Stack Developer | Front-end Developer | Graphic Designer
+**Now**
 
-Former Graphic Designer with experience in executing large-scale visual communication projects, now a Full Stack Developer trained by Trybe (trybe.com.br). Committed
-to developing creative solutions for the web using JavaScript, Typescript, Node.js, React.js, MySQL, and MongoDB. Passionate about clean, concise, and self-explanatory
-code. Seeking an opportunity to bring my skills to an organization that values social responsibility and continuous growth.
+- Building third-party integrations at APOIA.se: a connector contract that plugs Spotify, Telegram and Discord into the monolith (Node.js, Express, MongoDB) and its AWS Lambda services (Serverless, SQS).
+- Gating exclusive Telegram groups for paying supporters. EventBridge, SQS and Lambda check who's up to date, and supporters sign in with Telegram via OIDC/PKCE.
+- Freelancing for clients in Brazil, and volunteering at Mútua, a platform for cooperative farmers' markets.
 
----
+**Selected work**
 
-## 🛠️ Technical Skills
+- [compra-coletiva](https://github.com/gustavolendimuth/compra-coletiva): group buying with weight-based shipping, Socket.IO chat, a BullMQ email queue and LGPD compliance tests in CI.
+- [its-done](https://github.com/gustavolendimuth/its-done): time tracking and invoicing in a Turborepo monorepo (NestJS, Next.js, Prisma, S3, Sentry).
+- [transcritor](https://github.com/gustavolendimuth/transcritor): audio and video transcription with OpenAI. Uploads are deleted as soon as the job ends.
+- [guia-claude-code-otimizacao](https://github.com/gustavolendimuth/guia-claude-code-otimizacao): a step-by-step guide (PT-BR) to installing Claude Code and tuning a Windows machine for it.
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**How I work**
 
----
+Spec first. I write the spec and the repo context, coding agents build on top of it, and an independent check runs before the PR. I like types from the database to the UI, tests that run in CI, Docker setups that come up on the first try, and READMEs a stranger can follow.
 
-## 🎓 Education
+**Stack:** TypeScript · Node.js · NestJS · Express · React · Next.js · MongoDB · PostgreSQL · Prisma · Redis · AWS · Docker
 
-**Trybe** _(2022 - present)_
-- Currently enrolled in a full-stack development program, focusing on comprehensive web development skills. I'm committed to a 1500-hour curriculum over 12 months.
-- Completed numerous practical projects that simulate real-world scenarios.
+Juiz de Fora, Brazil · Lived in London for four years, work in English every day · [LinkedIn](https://www.linkedin.com/in/gustavolendimuth/) · [Email](mailto:gustavolendimuth@gmail.com)
 
----
+<details>
+<summary>🇧🇷 Versão em português</summary>
 
-## 📈 GitHub Stats
+<br>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolendimuth&show_icons=true&theme=tokyonight)
+Sou desenvolvedor full stack na [APOIA.se](https://apoia.se), uma plataforma de financiamento coletivo recorrente em que apoiadores mantêm apoios mensais a criadores. Passei dez anos como diretor de arte antes de ir para o software, por isso presto atenção nas duas pontas: a tela que a pessoa usa e o sistema que precisa aguentar esse uso.
 
----
+**Agora**
 
-## 📫 Get in Touch
+- Construo integrações com plataformas de terceiros na APOIA.se: um contrato de connector que liga Spotify, Telegram e Discord ao monolito (Node.js, Express, MongoDB) e aos serviços em AWS Lambda (Serverless, SQS).
+- Libero grupos exclusivos do Telegram para apoiadores pagantes. EventBridge, SQS e Lambda conferem quem está em dia, e o apoiador entra com a conta do Telegram via OIDC/PKCE.
+- Faço projetos como freelancer para clientes no Brasil e sou voluntário na Mútua, uma plataforma de feiras de produtores organizados em cooperativas.
 
-- [LinkedIn](https://www.linkedin.com/in/gustavolendimuth/?locale=en_US)
-- [Email](gustavolendimuth@gmail.com)
+**Projetos**
 
----
+- [compra-coletiva](https://github.com/gustavolendimuth/compra-coletiva): compra coletiva com frete calculado pelo peso, chat em Socket.IO, fila de e-mails no BullMQ e testes de conformidade com a LGPD no CI.
+- [its-done](https://github.com/gustavolendimuth/its-done): controle de horas e faturamento num monorepo Turborepo (NestJS, Next.js, Prisma, S3, Sentry).
+- [transcritor](https://github.com/gustavolendimuth/transcritor): transcrição de áudio e vídeo com a OpenAI. O arquivo enviado é apagado assim que a transcrição termina.
+- [guia-claude-code-otimizacao](https://github.com/gustavolendimuth/guia-claude-code-otimizacao): guia passo a passo para instalar o Claude Code e preparar o Windows para ele.
 
-Feel free to explore my repositories and don't hesitate to connect with me for collaboration or any interesting discussions!
+**Como trabalho**
 
+Spec primeiro. Escrevo a spec e o contexto do repositório, os agentes de código trabalham em cima disso, e uma verificação independente roda antes do PR. Gosto de tipagem do banco até a tela, de testes que rodam no CI, de ambiente Docker que sobe na primeira tentativa e de README que alguém de fora consegue seguir.
+
+Juiz de Fora, MG · Morei quatro anos em Londres e trabalho em inglês todo dia
+
+</details>
